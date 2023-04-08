@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        String str = "First commit."
     }
 
     @Override
